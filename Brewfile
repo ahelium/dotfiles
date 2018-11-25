@@ -48,6 +48,7 @@ brew 'unrar'
 brew 'vim'
 brew 'wget'
 brew 'wireguard-tools'
+brew 'xsv'
 
 cask '1password'
 cask 'alfred'

@@ -82,6 +82,3 @@
 [submodule "vim/vim.symlink/bundle/dracula-theme"]
 	path = vim/vim.symlink/bundle/dracula-theme
 	url = git@github.com:dracula/vim.git
-[submodule "vim/vim.symlink/bundle/night-owl-theme"]
-	path = vim/vim.symlink/bundle/night-owl-theme
-	url = git@github.com:haishanh/night-owl.vim.git

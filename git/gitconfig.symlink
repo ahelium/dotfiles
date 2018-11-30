@@ -44,4 +44,4 @@
 	submoduleSummary = true
 [commit]
         template = ~/.gitmessage
-        gpgsign = false
+        gpgsign = true

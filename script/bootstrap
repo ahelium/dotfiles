@@ -152,5 +152,8 @@ then
   fi
 fi
 
+# install fzf key-bindings
+# /usr/local/opt/fzf/install
+
 echo ''
 echo '  All installed!'

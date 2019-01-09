@@ -54,6 +54,7 @@ brew 'vim'
 brew 'wget'
 brew 'wireguard-tools'
 brew 'xsv'
+brew 'ykman'
 
 cask '1password'
 cask 'alfred'
